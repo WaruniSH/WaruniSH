@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Waruni Sanadamali.
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on programming
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me warunisha1@gmail.com
 
 <!---
